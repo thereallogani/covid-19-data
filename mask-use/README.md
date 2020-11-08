@@ -13,10 +13,10 @@ This survey was conducted a single time, and at this point we have no plans to u
 Data on the estimated prevalence of mask-wearing in counties in the United States can be found in the **[mask-use-by-county.csv](mask-use-by-county.csv)** file. ([Raw CSV](https://raw.githubusercontent.com/nytimes/covid-19-data/master/mask-use/mask-use-by-county.csv))
 
 ```
-COUNTYFP,NEVER,RARELY,SOMETIMES,FREQUENTLY,ALWAYS
-01001,0.053,0.074,0.134,0.295,0.444
-01003,0.083,0.059,0.098,0.323,0.436
-01005,0.067,0.121,0.12,0.201,0.491
+COUNTYFP,NEVER,RARELY,SOMETIMES,FREQUENTLY,ALWAYS,DATE
+01001,0.053,0.074,0.134,0.295,0.444,2020-04-01
+01003,0.083,0.059,0.098,0.323,0.436,2020-04-01
+01005,0.067,0.121,0.12,0.201,0.491,2020-04-01
 ```
 
 The fields have the following definitions:
